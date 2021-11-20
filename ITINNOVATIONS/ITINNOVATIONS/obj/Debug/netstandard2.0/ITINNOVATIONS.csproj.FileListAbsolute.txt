@@ -1,0 +1,16 @@
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\bin\Debug\netstandard2.0\ITINNOVATIONS.deps.json
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\bin\Debug\netstandard2.0\ITINNOVATIONS.dll
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\bin\Debug\netstandard2.0\ref\ITINNOVATIONS.dll
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\bin\Debug\netstandard2.0\ITINNOVATIONS.pdb
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.csproj.AssemblyReference.cache
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\ViewInicio.xaml.g.cs
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.AssemblyInfoInputs.cache
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.AssemblyInfo.cs
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.csproj.CoreCompileInputs.cache
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.dll
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ref\ITINNOVATIONS.dll
+C:\Users\bojor\Documents\MOVIL INTEGRAL\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.pdb
