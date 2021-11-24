@@ -133,4 +133,52 @@
       <Name>ITINNOVATIONS</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\categoria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\INICIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tipo_usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\usuario.png" />
+  </ItemGroup>
 </Project>

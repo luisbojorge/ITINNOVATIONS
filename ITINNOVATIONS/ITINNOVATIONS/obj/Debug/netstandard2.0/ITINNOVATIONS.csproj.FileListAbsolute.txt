@@ -22,6 +22,16 @@ C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\net
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\FormConsultaActivos.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\FormConsultaAsignaciones.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\FormConsultaUsuarios.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\Menu.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\PaginaPrincipal.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\RegistroActivos.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\RegistroAsignaciones.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\RegistroUsuario.xaml.g.cs
+C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\Usuario.xaml.g.cs
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\View\ViewInicio.xaml.g.cs
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.AssemblyInfoInputs.cache
 C:\Users\bojor\Documents\ITINNOVATIONS\ITINNOVATIONS\ITINNOVATIONS\obj\Debug\netstandard2.0\ITINNOVATIONS.AssemblyInfo.cs

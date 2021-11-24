@@ -4,5 +4,12 @@
              x:Class="ITINNOVATIONS.App">
     <Application.Resources>
 
+        <x:String x:Key="GetCategoria" >http://licitohurol-001-site1.itempurl.com/api/Categoria</x:String>
+        <x:String x:Key="GetProducto" >http://licitohurol-001-site1.itempurl.com/api/Producto</x:String>
+        <x:String x:Key="GetPersona" >http://licitohurol-001-site1.itempurl.com/api/Persona</x:String>
+        <x:String x:Key="GetTipoUsuario" >http://licitohurol-001-site1.itempurl.com/api/TipoUsuario</x:String>
+        <x:String x:Key="GetPagina" >http://licitohurol-001-site1.itempurl.com/api/Pagina</x:String>
+        <x:String x:Key="GetUsuario" >http://licitohurol-001-site1.itempurl.com/api/Usuario</x:String>
+
     </Application.Resources>
 </Application>

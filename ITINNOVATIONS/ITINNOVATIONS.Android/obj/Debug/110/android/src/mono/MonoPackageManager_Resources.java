@@ -5,6 +5,8 @@ public class MonoPackageManager_Resources {
 		"ITINNOVATIONS.Android.dll",
 		"FormsViewGroup.dll",
 		"ITINNOVATIONS.dll",
+		"Plugin.Settings.Abstractions.dll",
+		"Plugin.Settings.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

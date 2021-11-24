@@ -29,8 +29,8 @@
         </Grid>
         <StackLayout Grid.Row="1" HorizontalOptions="Center" Margin="0,-140,0,0" Spacing="30">
             <Grid HeightRequest="210" WidthRequest="210" HorizontalOptions="Center">
-                <Ellipse Stroke="white" StrokeThickness="2" Aspect="Fill"/>
-                <Image x:Name="BannerImg" Source="INICIO.png" HeightRequest="188" WidthRequest="188" HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Ellipse Stroke="white" StrokeThickness="3" Aspect="Fill"/>
+                <Image x:Name="BannerImg" Source="INICIO.png" HeightRequest="175" WidthRequest="165" HorizontalOptions="Center" VerticalOptions="Center"/>
             </Grid>
             <StackLayout HorizontalOptions="Center" Spacing="15">
                 <Label Text="¿Algo que registrar?" TextColor="White" FontSize="18" HorizontalOptions="Center" />

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0K5Biv8cOxBZHIybexESqkHv41EUY9jVKDZm6AJQZSHkq+X0IDRTgeXKD9d7SN/12KYKIJgEahXfH/xUG2XKpQ==",
+  "dgSpecHash": "FaG96bQZaiURmBP+t6tfQ4OMRohjnCYaJrvPKh0P/1ami/Kcr0vH/Bv2pRGzVbTRtWsi/B/TQbFSTcrSwh4kDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.iOS\\ITINNOVATIONS.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bojor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bojor\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

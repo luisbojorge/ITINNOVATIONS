@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1g39cl3cAEVT5otbtquLTQAXvOtYg4+lri5nMN0FOTlPBxe5LOzc8PxZzkq4FKo3IEiil5fmtMNZwcrisuPaGw==",
+  "dgSpecHash": "S6cvSXLw3IclEJPNcKpiHCiNFLQkwDYCcz2K8qzuRS5hDVX1DbEx/7it2A5qYbw3KeWw+6W8zZ8lRlf+xH81/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bojor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bojor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\bojor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bojor\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
