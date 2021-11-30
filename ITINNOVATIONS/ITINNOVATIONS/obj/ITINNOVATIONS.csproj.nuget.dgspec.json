@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj": {}
+    "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj": {
+    "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
+        "projectUniqueName": "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
         "projectName": "ITINNOVATIONS",
-        "projectPath": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
+        "projectPath": "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
         "packagesPath": "C:\\Users\\bojor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\obj\\",
+        "outputPath": "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

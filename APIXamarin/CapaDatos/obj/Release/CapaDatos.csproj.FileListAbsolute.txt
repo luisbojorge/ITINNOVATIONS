@@ -1,0 +1,17 @@
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.AccessControl.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.Permissions.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.AccessControl.xml
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.Permissions.xml
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaDatos\obj\Release\CapaDatos.pdb

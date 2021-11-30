@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6cvSXLw3IclEJPNcKpiHCiNFLQkwDYCcz2K8qzuRS5hDVX1DbEx/7it2A5qYbw3KeWw+6W8zZ8lRlf+xH81/w==",
+  "dgSpecHash": "Fn+EyguVeMYgqeKZwa2O7r+MLUJz7ZXorvJfMy9fSiGhWi521CsKFTCPfrXrKlFVPzArlUnbdmctSj2MF6dEJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bojor\\Documents\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
+  "projectFilePath": "C:\\Users\\bojor\\Documents\\DESARROLLO MOVIL\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS\\ITINNOVATIONS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bojor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bojor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

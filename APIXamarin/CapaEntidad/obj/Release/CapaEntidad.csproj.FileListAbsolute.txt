@@ -1,0 +1,6 @@
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\bojor\source\repos\APIXamarin\CapaEntidad\obj\Release\CapaEntidad.pdb
